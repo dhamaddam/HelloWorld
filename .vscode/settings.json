@@ -64,7 +64,8 @@
         "algorithm": "cpp",
         "functional": "cpp",
         "iterator": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "14_8": "cpp"
     },
     "terminal.integrated.shellIntegration.enabled": false,
     "code-runner.runInTerminal": true
